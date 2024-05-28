@@ -112,3 +112,7 @@ Week 12:
     - Set up customer support ticketing system.
     - Conduct end-to-end testing for customer support workflows.
 
+Anti-Lab2:
+- Maria Bodnar
+- https://github.com/MaraaaBodnar/Bodnar.University.Miro_Board.git
+- https://github.com/MaraaaBodnar/Katsuba.University.Netflix/pull/1
